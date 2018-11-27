@@ -1,5 +1,5 @@
 {
-  "name": "cryptotrader-site",
+  "name": "cryptodata",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -29,7 +29,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "connected-react-router": "^5.0.1",
-    "reactotron-react-js": "^2.1.1"
+    "connected-react-router": "^5.0.1"
   }
 }
